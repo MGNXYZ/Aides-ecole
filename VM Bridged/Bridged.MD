@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/95431446/167428001-c29f1a68-c7c1-46e2-a16e-bc9ae1929006.png)
 
-- Add new network ou Wnet0 et changer la carte réseau avec la sienne.
+- Add new network ou avec Wnet0 et changer la carte réseau avec la sienne.
 
 ![image](https://user-images.githubusercontent.com/95431446/167428292-b154bf64-e034-4486-bcd8-b13d5a4170e8.png)
 
